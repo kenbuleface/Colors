@@ -75,6 +75,8 @@ section header{
     justify-content: center;
     align-items: center;
 }
-.img{
-    border:1;
+.kenneth{
+    border: 10px;
+    border-radius: 12px;
+    max-width: 500px;
 }
